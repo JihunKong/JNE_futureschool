@@ -419,15 +419,12 @@ AI
 Infra
 	•	AWS
 	•	EC2
-	•	S3
 	•	RDS(PostgreSQL)
-	•	Lambda (음성 전처리)
 	•	API Gateway
 	•	CloudFront
 	•	Container
 	•	Docker
 	•	Docker Compose
-	•	Kubernetes(EKS) 가능
 
 ⸻
 
